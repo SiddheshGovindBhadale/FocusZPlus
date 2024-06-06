@@ -143,7 +143,7 @@ const HomeScreen = () => {
                 </View>
                 <View style={styles.userInfoRight}>
                   <TouchableOpacity style={styles.trakCropButton}>
-                    <Text style={styles.trakCropButtonText}>Track Crop</Text>
+                    <Text style={styles.trakCropButtonText}>Track Crop</Text> 
                   </TouchableOpacity>
                 </View>
               </View>
