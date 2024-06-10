@@ -46,16 +46,20 @@ If everything is set up _correctly_, you should see your new app running in your
 
 This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
 
+<h1>Screenshort - </h1>
+<p align="center">
+<kbd><img src="https://github.com/SiddheshGovindBhadale/FocusZPlus/assets/82762994/554b865b-c36c-4940-a124-9596a16f6abe" width=250 height=500></kbd>&nbsp;&thinsp;
+<kbd><img src="https://github.com/SiddheshGovindBhadale/FocusZPlus/assets/82762994/9cf9e0eb-f46f-4850-b3d0-333295cd622f" width=250 height=500></kbd>&nbsp;&thinsp;
+<kbd><img src="https://github.com/SiddheshGovindBhadale/FocusZPlus/assets/82762994/f9d67157-67e7-4d86-8dca-4e1f086e42ad" width=250 height=500></kbd>&nbsp;&thinsp;
+<kbd><img src="https://github.com/SiddheshGovindBhadale/FocusZPlus/assets/82762994/def9988e-ccbe-4c2b-b0bb-5892117fba0b" width=250 height=500></kbd>&nbsp;&thinsp;
+<kbd><img src="https://github.com/SiddheshGovindBhadale/FocusZPlus/assets/82762994/27373d76-7e19-4bd2-9beb-8b821fdb8dc2" width=250 height=500></kbd>&nbsp;&thinsp;
+<kbd><img src="https://github.com/SiddheshGovindBhadale/FocusZPlus/assets/82762994/ef6ad669-8288-4e3f-9d95-ba4e8f8106f8" width=250 height=500></kbd>&nbsp;&thinsp;
+<kbd><img src="https://github.com/SiddheshGovindBhadale/FocusZPlus/assets/82762994/32d15428-b6f5-4a4c-976b-342926635002" width=250 height=500></kbd>&nbsp;&thinsp;
+<kbd><img src="https://github.com/SiddheshGovindBhadale/FocusZPlus/assets/82762994/e3a1c840-e03a-4acf-8453-06400d7680f5" width=250 height=500></kbd>&nbsp;&thinsp;
+<kbd><img src="https://github.com/SiddheshGovindBhadale/FocusZPlus/assets/82762994/a631c613-6fcb-4ac4-98b1-ca0ff8412fcf" width=250 height=500></kbd>&nbsp;&thinsp;
+</p>
 
-![Screenshot_2024-06-10-13-24-05-99_3f82503fad07e6cb097e144aff18d8ed](https://github.com/SiddheshGovindBhadale/FocusZPlus/assets/82762994/554b865b-c36c-4940-a124-9596a16f6abe)
-![Screenshot_2024-06-10-13-24-12-00_3f82503fad07e6cb097e144aff18d8ed](https://github.com/SiddheshGovindBhadale/FocusZPlus/assets/82762994/9cf9e0eb-f46f-4850-b3d0-333295cd622f)
-![Screenshot_2024-06-10-13-24-58-37](https://github.com/SiddheshGovindBhadale/FocusZPlus/assets/82762994/f9d67157-67e7-4d86-8dca-4e1f086e42ad)
-![Screenshot_2024-06-10-13-24-36-56_3f82503fad07e6cb097e144aff18d8ed](https://github.com/SiddheshGovindBhadale/FocusZPlus/assets/82762994/def9988e-ccbe-4c2b-b0bb-5892117fba0b)
-![Screenshot_2024-06-10-13-23-54-68_3f82503fad07e6cb097e144aff18d8ed](https://github.com/SiddheshGovindBhadale/FocusZPlus/assets/82762994/27373d76-7e19-4bd2-9beb-8b821fdb8dc2)
-![Screenshot_2024-06-10-13-24-17-80_3f82503fad07e6cb097e144aff18d8ed](https://github.com/SiddheshGovindBhadale/FocusZPlus/assets/82762994/ef6ad669-8288-4e3f-9d95-ba4e8f8106f8)
-![Screenshot_2024-06-10-13-24-48-18_3f82503fad07e6cb097e144aff18d8ed](https://github.com/SiddheshGovindBhadale/FocusZPlus/assets/82762994/32d15428-b6f5-4a4c-976b-342926635002)
-![Screenshot_2024-06-10-13-23-46-62_3f82503fad07e6cb097e144aff18d8ed](https://github.com/SiddheshGovindBhadale/FocusZPlus/assets/82762994/e3a1c840-e03a-4acf-8453-06400d7680f5)
-![Screenshot_2024-06-10-13-24-40-12_3f82503fad07e6cb097e144aff18d8ed](https://github.com/SiddheshGovindBhadale/FocusZPlus/assets/82762994/a631c613-6fcb-4ac4-98b1-ca0ff8412fcf)
+
 
 
 
